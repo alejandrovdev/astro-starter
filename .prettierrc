@@ -18,6 +18,7 @@
   "printWidth": 80,
   "semi": true,
   "singleQuote": true,
+  "tailwindFunctions": ["cn", "cva"],
   "tailwindStylesheet": "./src/styles/global.css",
   "tabWidth": 2,
   "trailingComma": "all"
